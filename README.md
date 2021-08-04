@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=84&section=header&text=SOFT%20and%20STURDY&fontSize=72&fontAlign=50&fontAlignY=82&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=96&section=header&text=SOFT%20and%20STURDY&fontSize=72&fontAlign=50&fontAlignY=82&fontColor=ffffff)
 <div align="center">    
     
 ### Hi there 👋 I'm Responsive Web and UI Designer 🔥🔥
